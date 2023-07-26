@@ -2,12 +2,17 @@
 
 Welcome to the Messenger Clone project! This is a real-time messaging application built using Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, and Pusher. The project aims to provide a sleek and responsive user interface for messaging, supporting various features like real-time messaging, notifications, user authentication, file sharing, and more.
 
+## Deployed App
+
+[https://messenverse.vercel.app/](https://messenverse.vercel.app/)
+
 ## Screenshots
+
 | Screenshot 1 | Screenshot 2 | Screenshot 3 |
 | :---: | :---: | :---: |
-| ![Screenshot 1](https://github.com/khantseithu/messenger-clone/assets/100980146/937f8b2b-faa0-42c6-8d64-caf68c1cc225) | ![Screenshot 2](https://github.com/khantseithu/messenger-clone/assets/100980146/dda1fc1f-916e-4dab-94e1-d4994c735d89) | ![Screenshot 3](https://github.com/khantseithu/messenger-clone/assets/100980146/6f8830b9-069a-4da4-bdc1-37eb359dab3b) |
-| Screenshot 4 | Screenshot 5 | Screenshot 6 |
-| ![Screenshot 4](https://github.com/khantseithu/messenger-clone/assets/100980146/23c4dc68-ed0d-470e-ac7e-ae19ee758201) | ![Screenshot 6](https://github.com/khantseithu/messenger-clone/assets/100980146/937f8b2b-faa0-42c6-8d64-caf68c1cc225) |
+| ![Screenshot 1](/public/images/ss01.png) | ![Screenshot 2](/public/images/ss02.png) | ![Screenshot 3](/public/images/ss03.png) |
+| Screenshot 4 | Screenshot 5 |
+| ![Screenshot 4](/public/images/ss04.png) | ![Screenshot 6](/public/images/ss05.png) |
 
 
 
